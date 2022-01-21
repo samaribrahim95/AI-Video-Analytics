@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@900&display=swap');
+
+body {
+  background-color: #fff7eccf;
+}
+
+* {
+  font-family: 'Arima Madurai', cursive;
+}
+
+h1 {
+  font-size: 60px;
+  padding: 15px;
+  text-align: center;
+  color: #5b969f;
+  font-weight: bold;
+  text-shadow: 3px 3px 5px #000000;
+  line-height: 70px;
+  max-width: 900px;
+  margin: 10px auto 80px;
+
+}
+
+.row {
+  align-items: stretch;
+  margin-bottom: 50px;
+}
+
+.upload-icon {
+  width: 90px;
+}
+
+path{
+  fill : url(#grad2)
+}
+
+.header-bottom {
+  width: 100vw;
+  height: 15px !important;
+  color: #5b969f;
+  left: 50%;
+  opacity: 1;
+  margin-top: -70px;
+  position: absolute;
+  transform: translateX(-50%);
+}
+
+.upload-div {
+  border: 1px dashed #000;
+  border-radius: 5px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.upload-content {
+  width: 100%;
+  line-height: 60px;
+  text-align: center;
+  padding: 40px;
+}
+
+video {
+  width: 100%;
+  height: 350px;
+  border-radius: 5px;
+}
+
+.upload-btn {
+  min-width: 300px;
+  border-radius: 30px;
+  line-height: 50px;
+  border: none;
+  font-weight: 900;
+  background: linear-gradient(180deg, #cff4f9, #407a80);
+}
+
+.output-div .dash-sk-circle .dash-sk-child:before {
+  width: 15px;
+  height: 15px;
+  background-color: #afd1d6ff;
+}
+
+.output-div .dash-sk-circle {
+  width: 100px;
+  height: 100px;
+}
