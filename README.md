@@ -14,7 +14,9 @@ Also, it detects the people who are wearing masks and people who are not wearing
 #### Dataset:
 10000 images of masked and unmasked faces are used to train the last layer of our ResNet50 model.
 Blurring was applied on the dataset that is used to train ResNet50 so it can adapt the low quality of CCTV cameras.
+
 You can download it from: https://www.kaggle.com/vijaykumar1799/face-mask-detection
+
 Covid-19 Spread Tracker software detects:
 Total number of people
 number of safe people
