@@ -26,7 +26,7 @@ number of unmasked people
 
 ### Team:
 
-Shrouk El Masry Github.com/shrouk9
+Shrouk El Masry https://github.com/shrouk9
 
 Samar Ibrahim https://github.com/samaribrahim95
 
