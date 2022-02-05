@@ -5,7 +5,7 @@ is a computer vision project.
 Covid-19 Spread Tracker is mainly used to detect the people who are violating the safe distance between each other,
 Also, it detects the people who are wearing masks and people who are not wearing masks.
 
-#### **Models used for Covid-19 Spread Tracker software:**
+####**Models used for Covid-19 Spread Tracker software:**
 - YOLOv5 is used to detect the persons and the locations of them.
 - DBSCAN is used to detect unsafe people and clustering (the unsafe distance between persons is 6 feet). The threshold of the DBSCAN algorithm is 150 which detects the 6 feet in the real world.
 - RetinaNetMobileNetV1 model is used to detect the faces of the persons.
@@ -23,7 +23,8 @@ number of masked people
 number of unmasked people
 
 
-Team:
+###Team:
+
 Shrouk El Masry
 
 Samar Ibrahim
