@@ -17,11 +17,16 @@ Blurring was applied on the dataset that is used to train ResNet50 so it can ada
 
 You can download it from: https://www.kaggle.com/vijaykumar1799/face-mask-detection
 
-Covid-19 Spread Tracker software detects:
+#### Covid-19 Spread Tracker software detects:
+
 Total number of people
+
 number of safe people
+
 number of unsafe people
+
 number of masked people
+
 number of unmasked people
 
 #### Project Presentation: https://docs.google.com/presentation/d/1xZnPMwdmrv-L5GlZ5RYWOlipc1ounv4tHLJ4ZtKLEpQ/edit?usp=sharing
