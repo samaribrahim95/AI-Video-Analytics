@@ -19,7 +19,7 @@ You can download it from: https://www.kaggle.com/vijaykumar1799/face-mask-detect
 
 #### **Covid-19 Spread Tracker software detects:**
 
-Total number of people
+- Total number of people
 
 - number of safe people
 
