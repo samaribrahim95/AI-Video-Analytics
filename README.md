@@ -9,7 +9,7 @@ Also, it detects the people who are wearing masks and people who are not wearing
 - YOLOv5 is used to detect the persons and the locations of them.
 - DBSCAN is used to detect unsafe people and clustering (the unsafe distance between persons is 6 feet). The threshold of the DBSCAN algorithm is 150 which detects the 6 feet in the real world.
 - RetinaNetMobileNetV1 model is used to detect the faces of the persons.
--ResNet50 model was trained to classify the masked and the unmasked persons.
+- ResNet50 model was trained to classify the masked and the unmasked persons.
 
 #### Dataset:
 10000 images of masked and unmasked faces are used to train the last layer of our ResNet50 model.
@@ -21,13 +21,13 @@ You can download it from: https://www.kaggle.com/vijaykumar1799/face-mask-detect
 
 Total number of people
 
--number of safe people
+- number of safe people
 
--number of unsafe people
+- number of unsafe people
 
--number of masked people
+- number of masked people
 
--number of unmasked people
+- number of unmasked people
 
 #### Project Presentation: https://docs.google.com/presentation/d/1xZnPMwdmrv-L5GlZ5RYWOlipc1ounv4tHLJ4ZtKLEpQ/edit?usp=sharing
 
