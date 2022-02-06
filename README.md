@@ -26,12 +26,12 @@ number of unmasked people
 
 #### Project Presentation: https://docs.google.com/presentation/d/1xZnPMwdmrv-L5GlZ5RYWOlipc1ounv4tHLJ4ZtKLEpQ/edit?usp=sharing
 
+
+<br>
+
 ### Team:
 
-Shrouk El Masry https://github.com/shrouk9
+&#8226; &nbsp; [Shrouk El Masry](https://github.com/shrouk9) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &#8226; &nbsp; [Sara Hadou](https://github.com/SaraHadou)
+<br><br>
+&#8226; &nbsp; [Mohamed El-Ghannam](https://github.com/moghanam66) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  &#8226; &nbsp; [Samar Ibrahim](https://github.com/samaribrahim95)
 
-Samar Ibrahim https://github.com/samaribrahim95
-
-mohamed El-Ghannam https://github.com/moghanam66
-
-Sara Hadou https://github.com/SaraHadou
