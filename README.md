@@ -1,4 +1,4 @@
-# AI-Video-Analytics 
+# AI-Video-Analytics .
 ### Covid-19 Spread Tracker
 Covid-19 Spread Tracker is the name of our project which is basically
 is a computer vision project.
